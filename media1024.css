@@ -1,0 +1,17 @@
+@media (max-width:1025px){
+    .header{
+        width: 95%;
+
+    }
+    p{
+        width: 95%;
+    }
+    .none{
+        display: none;
+        
+    }
+    .card{width: 45%;
+        
+    }
+}
+

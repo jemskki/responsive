@@ -1,0 +1,52 @@
+@media (max-width:834px) {
+    .fa-burger {
+        display: block;
+    }
+
+    nav {
+        display: none;
+    }
+
+    .logo {
+        width: 49px;
+        height: 56px;
+
+    }
+    p{
+        width: 90%;
+        font-size: 32px;
+    }
+    .cards{
+        width: 95%;
+
+    }
+    .card{ width: 47%;
+
+    }
+    .section_3_items{
+        width: 95%;
+    }
+    .f_logo{
+        display: none;
+    }
+    .icone{
+        align-items: center;
+    }
+    footer{
+        justify-content: center;
+    }
+}
+@media (max-width:885px) {
+    p{
+        width: 90%;
+        font-size: 32px;
+    }
+
+}
+@media (max-width:950px) {
+    .section_text{
+    font-size: 16px;
+    padding: 50px 18px 170px;
+
+    }
+}
